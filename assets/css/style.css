@@ -1,0 +1,27 @@
+#buttons{
+    margin-top: 20px;
+
+
+}
+
+#giphy-form {
+    float: right;
+    margin-top: 50px;
+    width: 25%;
+    clear: both;
+
+}
+
+#giphy-view {
+    float: left;
+    margin-top: 50px;
+    width: 50%;
+
+}
+
+button {
+    color: white;
+    background-color: rgb(38, 148, 137);
+    margin-right: 5px;
+
+}
