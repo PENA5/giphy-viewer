@@ -7,8 +7,10 @@
 #giphy-form {
     float: right;
     margin-top: 50px;
-    width: 25%;
     clear: both;
+    width: 30%;
+    font-style: bold;
+    
 
 }
 
@@ -23,5 +25,6 @@ button {
     color: white;
     background-color: rgb(38, 148, 137);
     margin-right: 5px;
+    margin-top: 5px;
 
 }
